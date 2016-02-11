@@ -12,9 +12,9 @@ Gathered from the p2p Bitcoin network
 
 #Team Members
 
-|![Sharath Rao]|
-|![Metehan Ozten]|
-|![Olaoluwa Osuntokun]|
+[Sharath Rao]
+[Metehan Ozten]
+[Olaoluwa Osuntokun]
 
 Questions or Comments?
 Email: sharathrao13 at gmail dot com
