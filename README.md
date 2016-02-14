@@ -3,10 +3,10 @@
 ## Smart Fees: Predicting the Bitcoin Transaction Fee Market
 
 Machine Learning Algorithms Used:
-1. Linear Regression
-2. Gradient Boosted Regression Trees
-3. Random Forests
-4. XGBoost
+* Linear Regression
+* Gradient Boosted Regression Trees
+* Random Forests
+* XGBoost
 
 Dataset
 Gathered from the p2p Bitcoin network
