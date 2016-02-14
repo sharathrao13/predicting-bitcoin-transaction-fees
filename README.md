@@ -1,6 +1,6 @@
 # Applied Machine Learning (CS290F)
 
-## Smart Fees: Predicting the Bitcoin Transaction Fee Market
+## Smarter Fees: Predicting the Bitcoin Transaction Fee Market
 
 Machine Learning Algorithms Used:
 * Linear Regression
