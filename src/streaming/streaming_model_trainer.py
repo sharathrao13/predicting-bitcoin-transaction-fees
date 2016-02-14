@@ -233,16 +233,12 @@ class RollingModelTrainer(object):
 
 	def run(self):
 		#Threads
-		print("KEK")
 		reader = threading.Thread(target = self.socket_reader)
-
-		reader.start()
-
+		reader.start() #start thread for socket reading
 		trainer = threading.Thread(target = self.model_trainer)
-		trainer.start()
-
+		trainer.start() #start thread for model training
 		predictor = threading.Thread(target = self.model_predictor)
-		predictor.start()
+		predictor.start() #start thread for model predictor
 		print('Running...')
 
 
