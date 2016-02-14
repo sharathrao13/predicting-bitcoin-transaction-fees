@@ -8,14 +8,13 @@ Machine Learning Algorithms Used:
 * Random Forests
 * XGBoost
 
-Dataset
-Gathered from the p2p Bitcoin network
+Dataset gathered from the P2P Bitcoin network [using a modified btcd full-node](https://github.com/Roasbeef/btcd/commits/machine_learning_tx_fee_prediction). 
 
 ##Team Members
 
 - Sharath Rao
+- [Olaoluwa Osuntokun](github.com/Roasbeef)
 - Metehan Ozten
-- Olaoluwa Osuntokun
 
 ### Questions or Comments?
 Email: sharathrao13 at gmail dot com
