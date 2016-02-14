@@ -1,5 +1,6 @@
-# applied-machine-learning
-Project Title: Smart Fees: Predicting the Bitcoin Transaction Fee Market
+# Applied Machine Learning (CS290I)
+
+## Smart Fees: Predicting the Bitcoin Transaction Fee Market
 
 Machine Learning Algorithms Used:
 1) Linear Regression
@@ -10,13 +11,13 @@ Machine Learning Algorithms Used:
 Dataset
 Gathered from the p2p Bitcoin network
 
-#Team Members
+##Team Members
 
 - Sharath Rao
 - Metehan Ozten
 - Olaoluwa Osuntokun
 
-Questions or Comments?
+### Questions or Comments?
 Email: sharathrao13 at gmail dot com
 
 
