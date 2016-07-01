@@ -16,7 +16,4 @@ Dataset gathered from the P2P Bitcoin network [using a modified btcd full-node](
 - [Olaoluwa Osuntokun](github.com/Roasbeef)
 - Metehan Ozten
 
-### Questions or Comments?
-Email: sharathrao13 at gmail dot com
-
 
